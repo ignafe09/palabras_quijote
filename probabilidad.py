@@ -18,4 +18,4 @@ if __name__=="__main__":
     fichero_entrada = sys.argv[1]
     fichero_salida = sys.argv[2]
     porcentaje = float(sys.argv[3])
-    main(fichero_entrada, fichero_salida, ratio)
+    main(fichero_entrada, fichero_salida, porcentaje)
